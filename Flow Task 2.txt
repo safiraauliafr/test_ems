@@ -1,0 +1,12 @@
+Please take a look on the steps below:
+
+1. Create zip protected file (create_zip.py)
+2. Upload zip password protected to iDrive
+3. Download zip file
+4. Shows file in the folder
+5. Copy-paste zip file to another folder
+6. Open WinRAR
+7. Open selected folder in WinRAR
+8. Unzip password protected file
+
+Screen recording: https://app.birdeatsbug.com/sessions/gCFEcJ0qPCnpDQFseo1KrPZIZpUKzgdqokRPHQX_2vwU 
